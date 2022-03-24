@@ -1,3 +1,3 @@
 # oscaFest
-BAckground Generator
+Background Generator
 
